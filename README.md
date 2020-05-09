@@ -1,5 +1,6 @@
 # Open-Platform-materials
-Open Platform materials public
-api list
-request list
-FAQ
+## Docs
+- EZVIZ open platform introduction
+- EZVIZ cloud solutions
+- EZVIZ security and data protection
+- EZVIZ hightlights
