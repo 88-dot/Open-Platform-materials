@@ -10,7 +10,16 @@
 >> 1. Hardware：Baseline/Customized product 
 >> 2. Software:：OEM-APP or App developed by partner through EZVIZ’s API/SDK
 >> SDK/API Guide: https://open.ys7.com/doc/en/
-
+### Hybrid cloud
+> In order to comply with local regulations, such as GDPR or user data privacy, some customers require video and user data to be stored locally. We deploy some services on clients, such as cloud storage services, streaming media services, or business support services. 
+>> Hardware：Customized product
+>> Software:：OEM-APP or App developed by partner through EZVIZ’s API/SDK
+>> SDK/API Guide: https://open.ys7.com/doc/en/
+### Private cloud
+> Designed for partner who want to control all data and all services.
+>> Hardware：Customized product
+>> Software:：OEM-APP or App developed by partner through EZVIZ’s API/SDK
+>> SDK/API Guide: https://open.ys7.com/doc/en/
 
 - EZVIZ security and data protection
 - EZVIZ hightlights
